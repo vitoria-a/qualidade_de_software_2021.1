@@ -1,0 +1,322 @@
+Kind,Name,PercentLackOfCohesion
+Public Class,"DAO.AgendaDAO",90
+Public Class,"DAO.AvaliacaoDAO",75
+Public Class,"DAO.ConectionFactory",0
+Public Class,"DAO.ConsultaDAO",75
+Public Class,"DAO.EnderecoDAO",66
+Public Class,"DAO.EspecialidadeDAO",83
+Public Class,"DAO.HorarioDAO",0
+Public Class,"DAO.PacienteDAO",83
+Public Class,"DAO.ProcedimentoDAO",83
+Public Class,"DAO.ProfissionalDAO",79
+Public Class,"DAO.UsuarioDAO",83
+Public Class,"clinicalife.ClinicaLife",0
+Public Generic Class,"comboBox.GenericComboBox",50
+TypeVariable,"comboBox.GenericComboBox.E",0
+Public Class,"controller.AgendaController",0
+Public Class,"controller.AvaliacaoController",33
+Public Class,"controller.ConsultaController",33
+Public Class,"controller.EspecialidadeController",0
+Public Class,"controller.PacienteController",28
+Public Class,"controller.ProcedimentoController",14
+Public Class,"controller.ProfissionalController",33
+Public Class,"controller.UsuarioController",16
+Public Class,"controller.WebServiceCep",90
+Private Static Class,"controller.WebServiceCep.IterableElement",0
+Private Enum Type,"controller.WebServiceCep.Xml",100
+Class,"controller.WebServiceCep.Xml.(Anon_1)",0
+Class,"controller.WebServiceCep.Xml.(Anon_2)",0
+Class,"controller.WebServiceCep.Xml.(Anon_3)",0
+Class,"controller.WebServiceCep.Xml.(Anon_4)",0
+Class,"controller.WebServiceCep.Xml.(Anon_5)",0
+Class,"controller.WebServiceCep.Xml.(Anon_6)",0
+Class,"controller.WebServiceCep.Xml.(Anon_7)",0
+Private Static Class,"controller.WebServiceCep.XmlEnums",33
+Public Interface,"interfaces.TelaAntecedente",0
+Public Class,"model.Agenda",92
+Public Class,"model.Avaliacao",86
+Public Class,"model.Consulta",81
+Public Class,"model.Endereco",86
+Public Class,"model.Especialidade",50
+Public Class,"model.Formatacao",0
+Public Class,"model.Horario",66
+Public Class,"model.MD5",0
+Public Class,"model.Paciente",92
+Public Class,"model.Procedimento",50
+Public Class,"model.Profissional",90
+Public Class,"model.Usuario",84
+Public Class,"model.Validacao",0
+Public Class,"tables.AgendaTable",54
+Public Class,"tables.AvaliacaoTable",50
+Public Class,"tables.ConsultaTable",50
+Public Class,"tables.EspecialidadeTable",50
+Public Class,"tables.PacienteTable",50
+Public Class,"tables.ProcedimentoTable",50
+Public Class,"tables.ProfissionalTable",50
+Public Class,"tables.UsuarioTable",50
+Public Class,"view.Especialidades",84
+Class,"view.Especialidades.initComponents.(Anon_1)",0
+Class,"view.Especialidades.initComponents.(Anon_10)",0
+Class,"view.Especialidades.initComponents.(Anon_2)",0
+Class,"view.Especialidades.initComponents.(Anon_3)",0
+Class,"view.Especialidades.initComponents.(Anon_4)",0
+Class,"view.Especialidades.initComponents.(Anon_5)",0
+Class,"view.Especialidades.initComponents.(Anon_6)",0
+Class,"view.Especialidades.initComponents.(Anon_7)",0
+Class,"view.Especialidades.initComponents.(Anon_8)",0
+Class,"view.Especialidades.initComponents.(Anon_9)",0
+Class,"view.Especialidades.main.(Anon_11)",0
+Public Class,"view.FixedButtonModel",0
+Public Class,"view.HistoricoAtendimento",92
+Class,"view.HistoricoAtendimento.initComponents.(Anon_1)",0
+Class,"view.HistoricoAtendimento.initComponents.(Anon_2)",0
+Class,"view.HistoricoAtendimento.initComponents.(Anon_3)",0
+Public Class,"view.Login",84
+Class,"view.Login.initComponents.(Anon_1)",0
+Class,"view.Login.initComponents.(Anon_2)",0
+Class,"view.Login.initComponents.(Anon_3)",0
+Class,"view.Login.initComponents.(Anon_4)",0
+Class,"view.Login.initComponents.(Anon_5)",0
+Class,"view.Login.initComponents.(Anon_6)",0
+Class,"view.Login.main.(Anon_7)",0
+Public Class,"view.Main",97
+Class,"view.Main.initComponents.(Anon_1)",0
+Class,"view.Main.initComponents.(Anon_10)",0
+Class,"view.Main.initComponents.(Anon_11)",0
+Class,"view.Main.initComponents.(Anon_12)",0
+Class,"view.Main.initComponents.(Anon_13)",0
+Class,"view.Main.initComponents.(Anon_14)",0
+Class,"view.Main.initComponents.(Anon_15)",0
+Class,"view.Main.initComponents.(Anon_16)",0
+Class,"view.Main.initComponents.(Anon_17)",0
+Class,"view.Main.initComponents.(Anon_18)",0
+Class,"view.Main.initComponents.(Anon_19)",0
+Class,"view.Main.initComponents.(Anon_2)",0
+Class,"view.Main.initComponents.(Anon_20)",0
+Class,"view.Main.initComponents.(Anon_21)",0
+Class,"view.Main.initComponents.(Anon_22)",0
+Class,"view.Main.initComponents.(Anon_23)",0
+Class,"view.Main.initComponents.(Anon_24)",0
+Class,"view.Main.initComponents.(Anon_25)",0
+Class,"view.Main.initComponents.(Anon_26)",0
+Class,"view.Main.initComponents.(Anon_27)",0
+Class,"view.Main.initComponents.(Anon_28)",0
+Class,"view.Main.initComponents.(Anon_29)",0
+Class,"view.Main.initComponents.(Anon_3)",0
+Class,"view.Main.initComponents.(Anon_30)",0
+Class,"view.Main.initComponents.(Anon_31)",0
+Class,"view.Main.initComponents.(Anon_32)",0
+Class,"view.Main.initComponents.(Anon_33)",0
+Class,"view.Main.initComponents.(Anon_34)",0
+Class,"view.Main.initComponents.(Anon_35)",0
+Class,"view.Main.initComponents.(Anon_36)",0
+Class,"view.Main.initComponents.(Anon_37)",0
+Class,"view.Main.initComponents.(Anon_38)",0
+Class,"view.Main.initComponents.(Anon_39)",0
+Class,"view.Main.initComponents.(Anon_4)",0
+Class,"view.Main.initComponents.(Anon_40)",0
+Class,"view.Main.initComponents.(Anon_41)",0
+Class,"view.Main.initComponents.(Anon_42)",0
+Class,"view.Main.initComponents.(Anon_43)",0
+Class,"view.Main.initComponents.(Anon_44)",0
+Class,"view.Main.initComponents.(Anon_45)",0
+Class,"view.Main.initComponents.(Anon_46)",0
+Class,"view.Main.initComponents.(Anon_5)",0
+Class,"view.Main.initComponents.(Anon_6)",0
+Class,"view.Main.initComponents.(Anon_7)",0
+Class,"view.Main.initComponents.(Anon_8)",0
+Class,"view.Main.initComponents.(Anon_9)",0
+Class,"view.Main.main.(Anon_47)",0
+Public Class,"view.PanelHistoricoConsulta",74
+Public Class,"view.agenda.EditarAgendamento",94
+Class,"view.agenda.EditarAgendamento.initComponents.(Anon_1)",0
+Class,"view.agenda.EditarAgendamento.initComponents.(Anon_10)",0
+Class,"view.agenda.EditarAgendamento.initComponents.(Anon_11)",0
+Class,"view.agenda.EditarAgendamento.initComponents.(Anon_12)",0
+Class,"view.agenda.EditarAgendamento.initComponents.(Anon_13)",0
+Class,"view.agenda.EditarAgendamento.initComponents.(Anon_2)",0
+Class,"view.agenda.EditarAgendamento.initComponents.(Anon_3)",0
+Class,"view.agenda.EditarAgendamento.initComponents.(Anon_4)",0
+Class,"view.agenda.EditarAgendamento.initComponents.(Anon_5)",0
+Class,"view.agenda.EditarAgendamento.initComponents.(Anon_6)",0
+Class,"view.agenda.EditarAgendamento.initComponents.(Anon_7)",0
+Class,"view.agenda.EditarAgendamento.initComponents.(Anon_8)",0
+Class,"view.agenda.EditarAgendamento.initComponents.(Anon_9)",0
+Public Class,"view.agenda.NovoAgendamento",94
+Class,"view.agenda.NovoAgendamento.initComponents.(Anon_1)",0
+Class,"view.agenda.NovoAgendamento.initComponents.(Anon_2)",0
+Class,"view.agenda.NovoAgendamento.initComponents.(Anon_3)",0
+Class,"view.agenda.NovoAgendamento.initComponents.(Anon_4)",0
+Class,"view.agenda.NovoAgendamento.initComponents.(Anon_5)",0
+Class,"view.agenda.NovoAgendamento.initComponents.(Anon_6)",0
+Class,"view.agenda.NovoAgendamento.initComponents.(Anon_7)",0
+Class,"view.agenda.NovoAgendamento.initComponents.(Anon_8)",0
+Class,"view.agenda.NovoAgendamento.initComponents.(Anon_9)",0
+Public Class,"view.avaliacao.EditarAvaliacao",94
+Class,"view.avaliacao.EditarAvaliacao.initComponents.(Anon_1)",0
+Class,"view.avaliacao.EditarAvaliacao.initComponents.(Anon_10)",0
+Class,"view.avaliacao.EditarAvaliacao.initComponents.(Anon_11)",0
+Class,"view.avaliacao.EditarAvaliacao.initComponents.(Anon_2)",0
+Class,"view.avaliacao.EditarAvaliacao.initComponents.(Anon_3)",0
+Class,"view.avaliacao.EditarAvaliacao.initComponents.(Anon_4)",0
+Class,"view.avaliacao.EditarAvaliacao.initComponents.(Anon_5)",0
+Class,"view.avaliacao.EditarAvaliacao.initComponents.(Anon_6)",0
+Class,"view.avaliacao.EditarAvaliacao.initComponents.(Anon_7)",0
+Class,"view.avaliacao.EditarAvaliacao.initComponents.(Anon_8)",0
+Class,"view.avaliacao.EditarAvaliacao.initComponents.(Anon_9)",0
+Public Class,"view.avaliacao.NovoAvaliacao",94
+Class,"view.avaliacao.NovoAvaliacao.initComponents.(Anon_1)",0
+Class,"view.avaliacao.NovoAvaliacao.initComponents.(Anon_10)",0
+Class,"view.avaliacao.NovoAvaliacao.initComponents.(Anon_11)",0
+Class,"view.avaliacao.NovoAvaliacao.initComponents.(Anon_2)",0
+Class,"view.avaliacao.NovoAvaliacao.initComponents.(Anon_3)",0
+Class,"view.avaliacao.NovoAvaliacao.initComponents.(Anon_4)",0
+Class,"view.avaliacao.NovoAvaliacao.initComponents.(Anon_5)",0
+Class,"view.avaliacao.NovoAvaliacao.initComponents.(Anon_6)",0
+Class,"view.avaliacao.NovoAvaliacao.initComponents.(Anon_7)",0
+Class,"view.avaliacao.NovoAvaliacao.initComponents.(Anon_8)",0
+Class,"view.avaliacao.NovoAvaliacao.initComponents.(Anon_9)",0
+Public Class,"view.consulta.BuscarConsulta",86
+Class,"view.consulta.BuscarConsulta.initComponents.(Anon_1)",0
+Class,"view.consulta.BuscarConsulta.initComponents.(Anon_2)",0
+Class,"view.consulta.BuscarConsulta.initComponents.(Anon_3)",0
+Class,"view.consulta.BuscarConsulta.initComponents.(Anon_4)",0
+Class,"view.consulta.BuscarConsulta.initComponents.(Anon_5)",0
+Class,"view.consulta.BuscarConsulta.initComponents.(Anon_6)",0
+Class,"view.consulta.BuscarConsulta.initComponents.(Anon_7)",0
+Class,"view.consulta.BuscarConsulta.initComponents.(Anon_8)",0
+Public Class,"view.consulta.EditarConsulta",93
+Class,"view.consulta.EditarConsulta.initComponents.(Anon_1)",0
+Class,"view.consulta.EditarConsulta.initComponents.(Anon_2)",0
+Class,"view.consulta.EditarConsulta.initComponents.(Anon_3)",0
+Class,"view.consulta.EditarConsulta.initComponents.(Anon_4)",0
+Class,"view.consulta.EditarConsulta.initComponents.(Anon_5)",0
+Class,"view.consulta.EditarConsulta.initComponents.(Anon_6)",0
+Class,"view.consulta.EditarConsulta.initComponents.(Anon_7)",0
+Class,"view.consulta.EditarConsulta.initComponents.(Anon_8)",0
+Public Class,"view.consulta.NovoConsulta",93
+Class,"view.consulta.NovoConsulta.initComponents.(Anon_1)",0
+Class,"view.consulta.NovoConsulta.initComponents.(Anon_2)",0
+Class,"view.consulta.NovoConsulta.initComponents.(Anon_3)",0
+Class,"view.consulta.NovoConsulta.initComponents.(Anon_4)",0
+Class,"view.consulta.NovoConsulta.initComponents.(Anon_5)",0
+Class,"view.consulta.NovoConsulta.initComponents.(Anon_6)",0
+Class,"view.consulta.NovoConsulta.initComponents.(Anon_7)",0
+Class,"view.consulta.NovoConsulta.initComponents.(Anon_8)",0
+Public Class,"view.paciente.BuscarPaciente",86
+Class,"view.paciente.BuscarPaciente.initComponents.(Anon_1)",0
+Class,"view.paciente.BuscarPaciente.initComponents.(Anon_2)",0
+Class,"view.paciente.BuscarPaciente.initComponents.(Anon_3)",0
+Class,"view.paciente.BuscarPaciente.initComponents.(Anon_4)",0
+Class,"view.paciente.BuscarPaciente.initComponents.(Anon_5)",0
+Class,"view.paciente.BuscarPaciente.initComponents.(Anon_6)",0
+Class,"view.paciente.BuscarPaciente.initComponents.(Anon_7)",0
+Class,"view.paciente.BuscarPaciente.initComponents.(Anon_8)",0
+Public Class,"view.paciente.EditarPaciente",90
+Class,"view.paciente.EditarPaciente.initComponents.(Anon_1)",0
+Class,"view.paciente.EditarPaciente.initComponents.(Anon_10)",0
+Class,"view.paciente.EditarPaciente.initComponents.(Anon_11)",0
+Class,"view.paciente.EditarPaciente.initComponents.(Anon_12)",0
+Class,"view.paciente.EditarPaciente.initComponents.(Anon_13)",0
+Class,"view.paciente.EditarPaciente.initComponents.(Anon_14)",0
+Class,"view.paciente.EditarPaciente.initComponents.(Anon_15)",0
+Class,"view.paciente.EditarPaciente.initComponents.(Anon_2)",0
+Class,"view.paciente.EditarPaciente.initComponents.(Anon_3)",0
+Class,"view.paciente.EditarPaciente.initComponents.(Anon_4)",0
+Class,"view.paciente.EditarPaciente.initComponents.(Anon_5)",0
+Class,"view.paciente.EditarPaciente.initComponents.(Anon_6)",0
+Class,"view.paciente.EditarPaciente.initComponents.(Anon_7)",0
+Class,"view.paciente.EditarPaciente.initComponents.(Anon_8)",0
+Class,"view.paciente.EditarPaciente.initComponents.(Anon_9)",0
+Public Class,"view.paciente.NovoPaciente",91
+Class,"view.paciente.NovoPaciente.initComponents.(Anon_1)",0
+Class,"view.paciente.NovoPaciente.initComponents.(Anon_10)",0
+Class,"view.paciente.NovoPaciente.initComponents.(Anon_11)",0
+Class,"view.paciente.NovoPaciente.initComponents.(Anon_12)",0
+Class,"view.paciente.NovoPaciente.initComponents.(Anon_13)",0
+Class,"view.paciente.NovoPaciente.initComponents.(Anon_14)",0
+Class,"view.paciente.NovoPaciente.initComponents.(Anon_2)",0
+Class,"view.paciente.NovoPaciente.initComponents.(Anon_3)",0
+Class,"view.paciente.NovoPaciente.initComponents.(Anon_4)",0
+Class,"view.paciente.NovoPaciente.initComponents.(Anon_5)",0
+Class,"view.paciente.NovoPaciente.initComponents.(Anon_6)",0
+Class,"view.paciente.NovoPaciente.initComponents.(Anon_7)",0
+Class,"view.paciente.NovoPaciente.initComponents.(Anon_8)",0
+Class,"view.paciente.NovoPaciente.initComponents.(Anon_9)",0
+Public Class,"view.procedimento.EditarProcedimento",82
+Class,"view.procedimento.EditarProcedimento.initComponents.(Anon_1)",0
+Class,"view.procedimento.EditarProcedimento.initComponents.(Anon_2)",0
+Class,"view.procedimento.EditarProcedimento.initComponents.(Anon_3)",0
+Class,"view.procedimento.EditarProcedimento.initComponents.(Anon_4)",0
+Class,"view.procedimento.EditarProcedimento.initComponents.(Anon_5)",0
+Class,"view.procedimento.EditarProcedimento.initComponents.(Anon_6)",0
+Public Class,"view.procedimento.NovoProcedimento",84
+Class,"view.procedimento.NovoProcedimento.initComponents.(Anon_1)",0
+Class,"view.procedimento.NovoProcedimento.initComponents.(Anon_2)",0
+Class,"view.procedimento.NovoProcedimento.initComponents.(Anon_3)",0
+Class,"view.procedimento.NovoProcedimento.initComponents.(Anon_4)",0
+Class,"view.procedimento.NovoProcedimento.initComponents.(Anon_5)",0
+Class,"view.procedimento.NovoProcedimento.initComponents.(Anon_6)",0
+Public Class,"view.profissional.BuscarProfissional",86
+Class,"view.profissional.BuscarProfissional.initComponents.(Anon_1)",0
+Class,"view.profissional.BuscarProfissional.initComponents.(Anon_2)",0
+Class,"view.profissional.BuscarProfissional.initComponents.(Anon_3)",0
+Class,"view.profissional.BuscarProfissional.initComponents.(Anon_4)",0
+Class,"view.profissional.BuscarProfissional.initComponents.(Anon_5)",0
+Class,"view.profissional.BuscarProfissional.initComponents.(Anon_6)",0
+Class,"view.profissional.BuscarProfissional.initComponents.(Anon_7)",0
+Class,"view.profissional.BuscarProfissional.initComponents.(Anon_8)",0
+Public Class,"view.profissional.EditarProfissional",91
+Class,"view.profissional.EditarProfissional.initComponents.(Anon_1)",0
+Class,"view.profissional.EditarProfissional.initComponents.(Anon_10)",0
+Class,"view.profissional.EditarProfissional.initComponents.(Anon_11)",0
+Class,"view.profissional.EditarProfissional.initComponents.(Anon_12)",0
+Class,"view.profissional.EditarProfissional.initComponents.(Anon_13)",0
+Class,"view.profissional.EditarProfissional.initComponents.(Anon_14)",0
+Class,"view.profissional.EditarProfissional.initComponents.(Anon_15)",0
+Class,"view.profissional.EditarProfissional.initComponents.(Anon_16)",0
+Class,"view.profissional.EditarProfissional.initComponents.(Anon_17)",0
+Class,"view.profissional.EditarProfissional.initComponents.(Anon_18)",0
+Class,"view.profissional.EditarProfissional.initComponents.(Anon_2)",0
+Class,"view.profissional.EditarProfissional.initComponents.(Anon_3)",0
+Class,"view.profissional.EditarProfissional.initComponents.(Anon_4)",0
+Class,"view.profissional.EditarProfissional.initComponents.(Anon_5)",0
+Class,"view.profissional.EditarProfissional.initComponents.(Anon_6)",0
+Class,"view.profissional.EditarProfissional.initComponents.(Anon_7)",0
+Class,"view.profissional.EditarProfissional.initComponents.(Anon_8)",0
+Class,"view.profissional.EditarProfissional.initComponents.(Anon_9)",0
+Public Class,"view.profissional.NovoProfissional",93
+Class,"view.profissional.NovoProfissional.initComponents.(Anon_1)",0
+Class,"view.profissional.NovoProfissional.initComponents.(Anon_10)",0
+Class,"view.profissional.NovoProfissional.initComponents.(Anon_11)",0
+Class,"view.profissional.NovoProfissional.initComponents.(Anon_12)",0
+Class,"view.profissional.NovoProfissional.initComponents.(Anon_13)",0
+Class,"view.profissional.NovoProfissional.initComponents.(Anon_14)",0
+Class,"view.profissional.NovoProfissional.initComponents.(Anon_15)",0
+Class,"view.profissional.NovoProfissional.initComponents.(Anon_16)",0
+Class,"view.profissional.NovoProfissional.initComponents.(Anon_17)",0
+Class,"view.profissional.NovoProfissional.initComponents.(Anon_18)",0
+Class,"view.profissional.NovoProfissional.initComponents.(Anon_19)",0
+Class,"view.profissional.NovoProfissional.initComponents.(Anon_2)",0
+Class,"view.profissional.NovoProfissional.initComponents.(Anon_20)",0
+Class,"view.profissional.NovoProfissional.initComponents.(Anon_3)",0
+Class,"view.profissional.NovoProfissional.initComponents.(Anon_4)",0
+Class,"view.profissional.NovoProfissional.initComponents.(Anon_5)",0
+Class,"view.profissional.NovoProfissional.initComponents.(Anon_6)",0
+Class,"view.profissional.NovoProfissional.initComponents.(Anon_7)",0
+Class,"view.profissional.NovoProfissional.initComponents.(Anon_8)",0
+Class,"view.profissional.NovoProfissional.initComponents.(Anon_9)",0
+Public Class,"view.usuario.EditarUsuario",84
+Class,"view.usuario.EditarUsuario.initComponents.(Anon_1)",0
+Class,"view.usuario.EditarUsuario.initComponents.(Anon_2)",0
+Class,"view.usuario.EditarUsuario.initComponents.(Anon_3)",0
+Class,"view.usuario.EditarUsuario.initComponents.(Anon_4)",0
+Class,"view.usuario.EditarUsuario.initComponents.(Anon_5)",0
+Class,"view.usuario.EditarUsuario.initComponents.(Anon_6)",0
+Public Class,"view.usuario.NovoUsuario",87
+Class,"view.usuario.NovoUsuario.initComponents.(Anon_1)",0
+Class,"view.usuario.NovoUsuario.initComponents.(Anon_2)",0
+Class,"view.usuario.NovoUsuario.initComponents.(Anon_3)",0
+Class,"view.usuario.NovoUsuario.initComponents.(Anon_4)",0
+Class,"view.usuario.NovoUsuario.initComponents.(Anon_5)",0
+Class,"view.usuario.NovoUsuario.initComponents.(Anon_6)",0
